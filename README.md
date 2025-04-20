@@ -15,7 +15,7 @@
 
 ## About
 
-RateLight is a lightweight, customizable UI element created for the Outlier UI Hackathon. It enables beautiful, interactive rating elements with minimal configuration.
+RateLight is a lightweight, customizable UI element created for the Outlier Frontend Code Hackathon. It enables beautiful, interactive rating elements with minimal configuration.
 
 ## Features
 
